@@ -2,4 +2,4 @@
 
 ## Recriando a interface da Netflix
 
-- [] 
+- [x] Criando a etrutura básica do site e o header da página.
