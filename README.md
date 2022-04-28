@@ -4,6 +4,7 @@
 
 - [x] Construindo a estrutura básica da página.
 - [x] Criando o header da página.
-- [x] Organizando os elementos do header com CSS3, utilizando reset CSS e variáveis no CSS.
+- [x] Organizando os elementos do header, utilizando reset CSS e variáveis no CSS.
 - [x] Criando containers, inserindo imagem.
 - [x] Estilizando os botões e utilizando o Font Awesome.
+- [x] Utilizando Media Query para tornar a página responsiva.
