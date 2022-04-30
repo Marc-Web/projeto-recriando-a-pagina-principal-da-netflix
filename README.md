@@ -8,3 +8,5 @@
 - [x] Criando containers, inserindo imagem.
 - [x] Estilizando os botões e utilizando o Font Awesome.
 - [x] Utilizando Media Query para tornar a página responsiva.
+- [x] Desafios extras:
+- [x] Colocando animação na tag h2 no header com a biblioteca de animações Animate.css(https://animate.style/#documentation) e inserindo novas imagens.
