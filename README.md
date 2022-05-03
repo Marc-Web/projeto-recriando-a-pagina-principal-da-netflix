@@ -10,6 +10,8 @@
 - [x] Utilizando Media Query para tornar a página responsiva.
 - [x] Desafios extras:
 - [x] Colocando animação na tag h2 no header com a biblioteca de animações Animate.css(https://animate.style/#documentation) e inserindo novas imagens.
+- [x] Inserindo botões de próximo e anterior e colocando as imagens em movimento automático com o Owl Carousel.
+fonte: (https://www.youtube.com/watch?v=DZIum5A0w3A&ab_channel=hcode)
 
 ## Imagens da tela construída
 
